@@ -44,6 +44,14 @@
 
 </div>
 
+## Currently Building
+
+- Vehicle-physics and FPS prototypes in Unity, focused on honest handling and hit feedback
+- Shader authoring and performance profiling for low-end hardware targets
+- Open to junior gameplay/engine roles, freelance Unity work, and game jam collaborations
+
+---
+
 ---
 
 ## Featured Projects
@@ -66,6 +74,14 @@
     <img src="https://img.shields.io/badge/View%20All%20Repositories-C1440E?style=for-the-badge&logo=github&logoColor=white" alt="All repos"/>
   </a>
 </div>
+
+## Working Style
+
+- Small, testable commits over big-bang merges
+- I care about game feel first — physics and input response before visual polish
+- Comfortable picking up a scrappy prototype and getting it to a playable build
+
+---
 
 ---
 
