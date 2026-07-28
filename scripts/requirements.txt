@@ -1,0 +1,12 @@
+# Daily automation only needs these two:
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Portrait pipeline (run locally only when you change your photo).
+# The GitHub Action does NOT need these, so if you want the daily job to
+# install faster, move this block into scripts/requirements-portrait.txt
+# and point prep_photo.py / make_ascii_svg.py at that instead.
+pillow
+numpy
+opencv-python-headless
+rembg

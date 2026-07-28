@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="334"
+     viewBox="0 0 560 334"
+     font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <style>
+    .ttl { fill:#E9A319; font-size:14px; font-weight:600; }
+    .key { fill:#C1440E; font-size:12px; font-weight:600;
+            letter-spacing:.5px; text-transform:uppercase; }
+    .val { fill:#e6e1d6; font-size:13px; }
+    .arrow { fill:#E9A319; }
+    .static { opacity: 1; }
+    .row { opacity: 0; transform: translateX(-8px);
+           animation: slidein .5s ease-out forwards; }
+    @keyframes slidein { to { opacity: 1; transform: translateX(0); } }
+  </style>
+  <rect width="560" height="334" rx="8" fill="#0d1117"
+        stroke="#21262d" stroke-width="1"/>
+  <circle cx="26" cy="20" r="5" fill="#ff5f56"/><circle cx="44" cy="20" r="5" fill="#ffbd2e"/><circle cx="62" cy="20" r="5" fill="#27c93f"/><text x="280.0" y="24" text-anchor="middle" class="ttl">nicholas@github</text><line x1="22" y1="44" x2="538" y2="44" stroke="#21262d" stroke-width="1"/><g class="row" style="animation-delay:0.18s"><text x="22" y="74" class="key">Role</text><text x="22" y="90" class="val"><tspan class="arrow">&gt; </tspan>Game Developer  ·  South Africa</text></g><g class="row" style="animation-delay:0.32s"><text x="22" y="104" class="key">Now</text><text x="22" y="120" class="val"><tspan class="arrow">&gt; </tspan>Vehicle survival + FPS prototypes in Unity</text></g><g class="row" style="animation-delay:0.46s"><text x="22" y="134" class="key">Learning</text><text x="22" y="150" class="val"><tspan class="arrow">&gt; </tspan>Shader authoring · profiling · clean architecture</text></g><g class="row" style="animation-delay:0.60s"><text x="22" y="164" class="key">Stack</text><text x="22" y="180" class="val"><tspan class="arrow">&gt; </tspan>Unity · C# · .NET · ShaderLab / HLSL</text></g><g class="row" style="animation-delay:0.74s"><text x="22" y="194" class="key">Tools</text><text x="22" y="210" class="val"><tspan class="arrow">&gt; </tspan>Rider · Visual Studio · Git · Blender</text></g><g class="row" style="animation-delay:0.88s"><text x="22" y="224" class="key">Focus</text><text x="22" y="240" class="val"><tspan class="arrow">&gt; </tspan>Game feel · honest physics · low-end optimisation</text></g><g class="row" style="animation-delay:1.02s"><text x="22" y="254" class="key">Open to</text><text x="22" y="270" class="val"><tspan class="arrow">&gt; </tspan>Junior gameplay/engine roles · freelance · jams</text></g><g class="row" style="animation-delay:1.16s"><text x="22" y="284" class="key">Ask me</text><text x="22" y="300" class="val"><tspan class="arrow">&gt; </tspan>Unity · C# · getting a prototype to a build</text></g>
+</svg>
