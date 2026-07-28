@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C1810,40:0891B2,100:00F0FF&height=200&section=header&text=Nicholas&fontSize=70&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Game%20Developer%20%E2%80%A2%20Unity%20%E2%80%A2%20C%23&descAlignY=54&descSize=18" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D26,40:0891B2,100:00F0FF&height=200&section=header&text=Nicholas&fontSize=70&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Game%20Developer%20%E2%80%A2%20Unity%20%E2%80%A2%20C%23&descAlignY=54&descSize=18" width="100%" alt="banner"/>
 
 <a href="https://github.com/Nicholas69-69">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=Game+Developer+from+South+Africa+%F0%9F%87%BF%F0%9F%87%A6;Building+worlds+with+Unity+and+C%23;Gameplay+Systems+%7C+Shaders+%7C+Real-Time+3D" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Location-South%20Africa-0891B2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/Focus-Game%20Development-00F0FF?style=flat-square&logo=unity&logoColor=white" alt="Focus"/>
+<img src="https://img.shields.io/badge/Focus-Game%20Development-0891B2?style=flat-square&logo=unity&logoColor=white" alt="Focus"/>
 <img src="https://img.shields.io/badge/Engine-Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Engine"/>
 <img src="https://img.shields.io/badge/Engine-Unreal%20Engine-0891B2?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
 <img src="https://komarev.com/ghpvc/?username=Nicholas69-69&style=flat-square&color=0891B2&label=Profile+Views" alt="Profile views"/>
@@ -100,7 +100,7 @@
 
 *"Ship the prototype. Then make it feel good."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,60:0891B2,100:2C1810&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,60:0891B2,100:0B1D26&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
 
