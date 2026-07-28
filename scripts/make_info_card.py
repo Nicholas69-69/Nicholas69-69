@@ -27,8 +27,8 @@ ROWS = [
     ("Ask me",     "Unity · C# · getting a prototype to a build"),
 ]
 # desert palette to match the banner
-ACCENT = "#E9A319"   # amber
-ACCENT2 = "#C1440E"  # burnt orange
+ACCENT = "#00F0FF"   # amber
+ACCENT2 = "#0891B2"  # burnt orange
 FG = "#e6e1d6"       # warm off-white
 DIM = "#8a8175"
 BG = "#0d1117"

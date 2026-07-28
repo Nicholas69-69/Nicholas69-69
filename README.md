@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C1810,40:C1440E,100:E9A319&height=200&section=header&text=Nicholas&fontSize=70&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Game%20Developer%20%E2%80%A2%20Unity%20%E2%80%A2%20C%23&descAlignY=54&descSize=18" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C1810,40:0891B2,100:00F0FF&height=200&section=header&text=Nicholas&fontSize=70&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Game%20Developer%20%E2%80%A2%20Unity%20%E2%80%A2%20C%23&descAlignY=54&descSize=18" width="100%" alt="banner"/>
 
 <a href="https://github.com/Nicholas69-69">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=E9A319&center=true&vCenter=true&width=650&lines=Game+Developer+from+South+Africa+%F0%9F%87%BF%F0%9F%87%A6;Building+worlds+with+Unity+and+C%23;Gameplay+Systems+%7C+Shaders+%7C+Real-Time+3D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=Game+Developer+from+South+Africa+%F0%9F%87%BF%F0%9F%87%A6;Building+worlds+with+Unity+and+C%23;Gameplay+Systems+%7C+Shaders+%7C+Real-Time+3D" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-South%20Africa-C1440E?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/Focus-Game%20Development-E9A319?style=flat-square&logo=unity&logoColor=white" alt="Focus"/>
+<img src="https://img.shields.io/badge/Location-South%20Africa-0891B2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/Focus-Game%20Development-00F0FF?style=flat-square&logo=unity&logoColor=white" alt="Focus"/>
 <img src="https://img.shields.io/badge/Engine-Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Engine"/>
-<img src="https://komarev.com/ghpvc/?username=Nicholas69-69&style=flat-square&color=C1440E&label=Profile+Views" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Engine-Unreal%20Engine-0891B2?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+<img src="https://komarev.com/ghpvc/?username=Nicholas69-69&style=flat-square&color=0891B2&label=Profile+Views" alt="Profile views"/>
 
 <br/><br/>
 
@@ -71,7 +72,7 @@
 
 <div align="center">
   <a href="https://github.com/Nicholas69-69?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-C1440E?style=for-the-badge&logo=github&logoColor=white" alt="All repos"/>
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="All repos"/>
   </a>
 </div>
 
@@ -99,7 +100,7 @@
 
 *"Ship the prototype. Then make it feel good."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9A319,60:C1440E,100:2C1810&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,60:0891B2,100:2C1810&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
 
