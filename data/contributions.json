@@ -1,12 +1,12 @@
 {
   "username": "Nicholas69-69",
-  "generated_utc": "2026-07-28T19:16:26+00:00",
-  "total_last_year": 24,
-  "current_streak": 2,
+  "generated_utc": "2026-07-29T09:07:06+00:00",
+  "total_last_year": 35,
+  "current_streak": 0,
   "longest_streak": 2,
   "best_day": {
-    "date": "2026-06-22",
-    "count": 5
+    "date": "2026-07-28",
+    "count": 16
   },
   "monthly_totals": {
     "2025-07": 0,
@@ -21,7 +21,7 @@
     "2026-04": 0,
     "2026-05": 5,
     "2026-06": 6,
-    "2026-07": 7
+    "2026-07": 18
   },
   "days": [
     {
@@ -381,7 +381,7 @@
     },
     {
       "date": "2025-10-06",
-      "level": 2,
+      "level": 4,
       "count": 2
     },
     {
@@ -1186,7 +1186,7 @@
     },
     {
       "date": "2026-03-16",
-      "level": 2,
+      "level": 4,
       "count": 2
     },
     {
@@ -1261,7 +1261,7 @@
     },
     {
       "date": "2026-03-31",
-      "level": 2,
+      "level": 4,
       "count": 2
     },
     {
@@ -1481,7 +1481,7 @@
     },
     {
       "date": "2026-05-14",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
@@ -1691,7 +1691,7 @@
     },
     {
       "date": "2026-06-25",
-      "level": 1,
+      "level": 2,
       "count": 1
     },
     {
@@ -1851,13 +1851,18 @@
     },
     {
       "date": "2026-07-27",
-      "level": 2,
+      "level": 4,
       "count": 2
     },
     {
       "date": "2026-07-28",
       "level": 4,
-      "count": 5
+      "count": 16
+    },
+    {
+      "date": "2026-07-29",
+      "level": 0,
+      "count": 0
     }
   ]
 }
