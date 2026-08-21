@@ -1,9 +1,9 @@
 {
   "username": "Nicholas69-69",
-  "generated_utc": "2026-08-20T07:04:03+00:00",
-  "total_last_year": 57,
+  "generated_utc": "2026-08-21T07:05:19+00:00",
+  "total_last_year": 58,
   "current_streak": 0,
-  "longest_streak": 24,
+  "longest_streak": 25,
   "best_day": {
     "date": "2026-07-28",
     "count": 16
@@ -21,7 +21,7 @@
     "2026-05": 5,
     "2026-06": 6,
     "2026-07": 21,
-    "2026-08": 19
+    "2026-08": 20
   },
   "days": [
     {
@@ -1866,6 +1866,11 @@
     },
     {
       "date": "2026-08-20",
+      "level": 2,
+      "count": 1
+    },
+    {
+      "date": "2026-08-21",
       "level": 0,
       "count": 0
     }
